@@ -8,4 +8,4 @@ PS:
 3. OK, 你的路由器下应该可以自动激活Windows或者Office了 :)
 ```
 
-配套luci: [luci-app-vlmcsd](https://github.com/mchome/luci-app-vlmcsd "")
+配套luci: [luci-app-vlmcsd](https://github.com/cherryz/luci-app-vlmcsd "")
